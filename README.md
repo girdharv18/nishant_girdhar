@@ -120,12 +120,12 @@ I’m **Nishant Girdhar**, an **AWS DevOps Senior Consultant** with **8+ years o
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=girdharv18&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girdharv18&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girdharv18" />
 </p>
 
 ---
